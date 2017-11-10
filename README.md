@@ -2,6 +2,8 @@
 
 Terminal dashboard with container stats.
 
+![](stats.png)
+
 ## Running
 
 ```
